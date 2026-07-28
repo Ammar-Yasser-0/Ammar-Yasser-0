@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+### `./contributions.sh`
+
+<img src="./contrib-heatmap.svg" alt="Animated GitHub contribution heatmap" width="860" />
+
+</div>
